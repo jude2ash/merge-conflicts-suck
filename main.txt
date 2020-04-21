@@ -1,0 +1,2 @@
+Var num 500
+Var truth = "Hello, world"
